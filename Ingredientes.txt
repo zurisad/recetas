@@ -1,1 +1,4 @@
-Ingredientes 
+Ingredientes :
+leche 
+huevos
+harina
